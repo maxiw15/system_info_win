@@ -1,6 +1,4 @@
-# pip install python-docx
 # pip install windows-tools
-
 
 import subprocess
 import time
